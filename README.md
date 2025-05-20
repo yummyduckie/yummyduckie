@@ -10,50 +10,7 @@
     <body>
         <div>
             <h1>assets</h1>
-            <a href="assets/CircularSpotifyText-Black.otf">link text</a>
         </div>
-        <input class="search-bar" type="text" placeholder="search">
-        <div class="video-preview">
-            <div class="thumbnail-row">
-                <img class="thumbnail" src="thumbnails/off_the_record.png">
-            </div>
-            <div>
-                <div class="channel-picture">
-                    <img class="icon" src="icons/ive.png">
-                </div>
-                <div class="video-info">
-                    <p class="video-title">
-                        IVE 아이브 'Off The Record' MV
-                    </p>
-                    <p class="video-author">
-                        STARSHIP
-                    </p>
-                    <p class="video-stats">
-                        55M views &#183; 1 year ago
-                    </p>
-                </div>
-            </div>
-        </div>
-        <div class="video-preview">
-            <div class="thumbnail-row">
-                <img class="thumbnail" src="thumbnails/romance_untold.png">
-            </div>
-            <div>
-                <div class="channel-picture">
-                    <img class="icon" src="icons/ehypen.png">
-                </div>
-                <div class="video-info">
-                    <p class="video-title">
-                        ENHYPEN (엔하이픈) 'XO (Only If You Say Yes)' Official MV
-                    </p>
-                    <p class="video-author">
-                        HYBE LABELS
-                    </p>
-                    <p class="video-stats">
-                        45M views &#183; 8 months
-                    </p>
-                </div>
-            </div>
-        </div>
+        <p>ignore this repo i'm still figuring it out</p>
     </body>
 </html>
