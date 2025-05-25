@@ -1105,11 +1105,15 @@ div.aops-modal-frame.aops-modal-standard {
 }
 
 .cmty-new-topic-popup .cmty-posting-environ-buttons {
-display: flex;
+    display: flex;
 }
 
 .cmty-reply-window {
-margin-top: 2em;
+    margin-top: 2em;
+}
+
+.aops-modal-standard .aops-modal-buttons {
+    display: flex;
 }
 
 
