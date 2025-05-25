@@ -1102,6 +1102,7 @@ div.aops-modal-content-wrapper {
 
 div.aops-modal-frame.aops-modal-standard {
     border: 1px solid var(--borders);
+    border-radius: 10px;
 }
 
 .cmty-new-topic-popup .cmty-posting-environ-buttons {
