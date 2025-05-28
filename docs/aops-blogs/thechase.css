@@ -243,6 +243,7 @@ p#post-new-entry-p {
     display: block!important;
     float: unset!important;
     margin: unset!important;
+    margin: 0 0 10em 0!important;
 }
 
 a#post-new-entry::before {
@@ -276,6 +277,7 @@ div.entry {
     border-radius: 20px;
     border: 1px solid var(--borders);
     margin-top: 10em;
+    margin: 0 0 10em 0;
 }
 
 div.entrywrap {
@@ -1170,7 +1172,6 @@ div#contrib-widget.widget div.widget-header::before {
 
 
 
-/* a lot of this is repeat but i'm too lazy to fix it */
 /* mobile view settings */
 @media only screen and (max-width: 464px) {
     :root {
@@ -1262,10 +1263,12 @@ div#contrib-widget.widget div.widget-header::before {
 
     p#post-new-entry-p {
         margin-top: 2em!important;
+        margin: 0 0 1.5em 0!important;
     }
 
     div.entry {
         margin-top: 4em;
+        margin: 0 0 4em 0;
     }
 }
 
@@ -1359,10 +1362,12 @@ div#contrib-widget.widget div.widget-header::before {
 
     p#post-new-entry-p {
         margin-top: 2em!important;
+        margin: 0 0 1.5em 0!important;
     }
 
     div.entry {
         margin-top: 4em;
+        margin: 0 0 4em 0;
     }
 }
 
@@ -1378,5 +1383,9 @@ div#contrib-widget.widget div.widget-header::before {
 
     #user-menu-widget.block.user_menu div p.description {
         font-size: 0.78rem;
+    }
+
+    p#post-new-entry-p {
+        margin: 0 0 3em 0!important;
     }
 }
